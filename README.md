@@ -4,6 +4,9 @@ Welcome to my 3D Developer Portfolio project! This portfolio is built using Reac
 
 <a href="https://im.ge/i/portfolio.KLZYyG"><img src="https://i.im.ge/2024/05/30/KLZYyG.portfolio.png" alt="portfolio" border="0"></a>
 
+## Live Demo
+https://gauravkumar-portfolio.netlify.app/
+
 ## Table of Contents
 
 - [About the Project](#about-the-project)
