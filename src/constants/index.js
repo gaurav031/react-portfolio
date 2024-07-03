@@ -1,4 +1,4 @@
-import { edunet, internpedia, marwadi, coc, mtt } from '../assets/images';
+import { edunet, internpedia, marwadi, coc, mtt, scrape} from '../assets/images';
 
 import {
     luna,
@@ -14,7 +14,6 @@ import {
     mongodb,
     mui,
     nodejs,
-    pricewise,
     react,
     redux,
     vibeexchange,
@@ -181,6 +180,17 @@ export const socialLinks = [
 ];
 
 export const projects = [
+    {
+        iconUrl: scrape,
+        theme: 'btn-back-red',
+        name: 'Scrape - Web scrapping tool',
+        description:[
+         'Scrape is a web scraping tool that takes an Amazon product link and displays the entire product description, including the lowest, current, and average prices. It also sends email updates whenever the products price changes or it comes back in stock..',
+         'This website is built using Next.js, Tailwind CSS, and MongoDB..'
+        ],
+        link: 'https://github.com/gaurav031/Scrape',
+        livelink: "https://scrape031.vercel.app",
+    }, 
     {
         iconUrl: snapvibe,
         theme: 'btn-back-blue',

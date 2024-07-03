@@ -5,6 +5,7 @@ import internpedia from './interpedia.png'
 import marwadi from './Mawadi.png'
 import coc from './coc.png'
 import mtt from './mtt.jpg'
+import scrape from './scrape.png'
 
 export {
     hero,
@@ -13,5 +14,6 @@ export {
     internpedia,
     marwadi,
     coc,
-    mtt
+    mtt,
+    scrape
 }
