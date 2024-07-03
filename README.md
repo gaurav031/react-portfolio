@@ -2,10 +2,10 @@
 
 Welcome to my 3D Developer Portfolio project! This portfolio is built using React and Three.js to create an immersive, interactive 3D experience. Explore my work and get a feel for my skills and projects.
 
-<a href="https://im.ge/i/portfolio.KLZYyG"><img src="https://i.im.ge/2024/05/30/KLZYyG.portfolio.png" alt="portfolio" border="0"></a>
+<a href="https://gauravkumar-portfolio.netlify.app"><img src="https://github.com/gaurav031/react-portfolio/assets/129617004/c415e032-b215-46ec-b6de-bf9200720090" alt="portfolio" border="0"></a>
 
 ## Live Demo
-https://gauravkumar-portfolio.netlify.app/
+https://gauravkumar-portfolio.netlify.app
 
 ## Table of Contents
 
