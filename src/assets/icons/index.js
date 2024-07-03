@@ -27,9 +27,11 @@ import mysql from './mysql.png'
 import luna from './luna.png'
 import snapvibe from './snapVibe.png'
 import vibeexchange from './vibeexchange.png'
+import next from './nextjs.svg'
 
 export {
     luna,
+    next,
     snapvibe,
     vibeexchange,
     css,

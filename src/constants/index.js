@@ -21,7 +21,8 @@ import {
     tailwindcss,
     threads,
     java,
-    mysql
+    mysql,
+    next
 } from "../assets/icons";
 
 export const skills = [
@@ -89,6 +90,11 @@ export const skills = [
         imageUrl: redux,
         name: "Redux",
         type: "State Management",
+    },
+    {
+        imageUrl: next,
+        name: "Next Js",
+        type: "Frontend",
     },
     {
         imageUrl: tailwindcss,
